@@ -1,0 +1,26 @@
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+body.bisque {
+  background-color: bisque;
+  color: darkblue;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+#themeSelector {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 6px;
+}
